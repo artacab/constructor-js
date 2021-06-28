@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/artacab/constructor-js/issues"
   },
-  "homepage": "https://github.com/artacab/constructor-js#readme"
+  "homepage": "https://github.com/artacab/constructor-js#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5"
+  }
 }
